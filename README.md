@@ -228,11 +228,3 @@ Open a Pull Request
 
 Distributed under the MIT License. See LICENSE for more information.
 
-
-🙏 Acknowledgments
-
-Name of Dataset Source (e.g., Kaggle)
-
-Inspiration or Tutorial (if any)
-
-README Template
